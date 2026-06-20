@@ -1,18 +1,81 @@
-# Weather App + Movie Search App 🌦️🎬
+# 🌦️ Weather App + 🎬 Movie Search App
 
-A responsive web application built using HTML, CSS, and JavaScript that integrates public APIs to display real-time weather information and movie details.
+<div align="center">
 
-## Features
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Weather+%2B+Movie+Search+Application;Built+with+HTML%2C+CSS+%26+JavaScript;API+Integration+Project+🚀" />
 
-* Search weather by city
-* Display temperature, humidity, and conditions
-* Search movies by title
-* Display movie posters and details
-* API integration using Fetch and Async/Await
+</div>
 
-## Technologies
 
-HTML5 | CSS3 | JavaScript ES6+ | APIs | GitHub
+## 🚀 About The Project
 
-This project demonstrates DOM manipulation, asynchronous JavaScript, and dynamic data rendering.
-Thank You
+A modern responsive web application that combines a **Weather App** and **Movie Search App** using real-time API integration.
+
+Users can search any city to get live weather information and search movies to view details like posters, ratings, and descriptions.
+
+This project demonstrates JavaScript ES6+, DOM manipulation, asynchronous programming, and API integration.
+
+
+---
+
+## ✨ Features
+
+### 🌦️ Weather App
+
+✅ Search weather by city name  
+✅ Real-time weather data  
+✅ Temperature display  
+✅ Humidity information  
+✅ Weather conditions  
+✅ Responsive UI  
+
+
+### 🎬 Movie Search App
+
+✅ Search movies by title  
+✅ Movie posters  
+✅ Movie ratings  
+✅ Release year  
+✅ Movie description  
+✅ Dynamic API-based results  
+
+
+---
+
+## 🛠️ Technologies Used
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</div>
+
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Fetch API
+- Async/Await
+- REST APIs
+- Git & GitHub
+
+
+---
+
+## 🔌 APIs Used
+
+🌦️ Weather Data:
+
+OpenWeather API
+
+
+🎬 Movie Data:
+
+OMDb API
+
+
+---
+
+## 📸 Project Preview
+
+(Add your screenshots here)
