@@ -1,96 +1,21 @@
-# 🌦️ Weather App + 🎬 Movie Search App
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Weather+%2B+Movie+Search+Application;Built+with+HTML%2C+CSS+%26+JavaScript;API+Integration+Project+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thank+You+For+Visiting+My+Project+❤️;Keep+Learning+Keep+Building+🚀" />
 
-</div>
+<br>
 
+✨ Thank you for exploring my **Weather App + Movie Search App**!  
+💙 I appreciate your time and support.  
 
-## 🚀 About The Project
+⭐ If you found this project useful, consider giving it a **star**!  
+🚀 More exciting projects coming soon...
 
-A modern responsive web application that combines a **Weather App** and **Movie Search App** using real-time API integration.
+<br>
 
-Users can search any city to get live weather information and search movies to view details like posters, ratings, and descriptions.
+### 💻 Happy Coding! 🔥
 
-This project demonstrates JavaScript ES6+, DOM manipulation, asynchronous programming, and API integration.
-
-
----
-
-## ✨ Features
-
-### 🌦️ Weather App
-
-✅ Search weather by city name  
-✅ Real-time weather data  
-✅ Temperature display  
-✅ Humidity information  
-✅ Weather conditions  
-✅ Responsive UI  
-
-
-### 🎬 Movie Search App
-
-✅ Search movies by title  
-✅ Movie posters  
-✅ Movie ratings  
-✅ Release year  
-✅ Movie description  
-✅ Dynamic API-based results  
-
-
----
-
-## 🛠️ Technologies Used
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-
-</div>
-
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Fetch API
-- Async/Await
-- REST APIs
-- Git & GitHub
-
-
----
-
-## 🔌 APIs Used
-
-🌦️ Weather Data:
-
-OpenWeather API
-
-
-🎬 Movie Data:
-
-OMDb API
-
-
----
-
-## 📸 Project Preview
-
-(Add your screenshots here)
-
-
-
-<div align="center">
-
-## ❤️ Thank You for Visiting My Project!
-
-✨ Thanks for taking the time to explore my Weather + Movie Search App.  
-🚀 Your support and feedback are always appreciated.
-
-⭐ If you like this project, don't forget to give it a star!
-
-Happy Coding 💻🔥
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
 
 </div>
