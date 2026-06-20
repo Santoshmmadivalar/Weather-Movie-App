@@ -79,3 +79,18 @@ OMDb API
 ## 📸 Project Preview
 
 (Add your screenshots here)
+
+
+
+<div align="center">
+
+## ❤️ Thank You for Visiting My Project!
+
+✨ Thanks for taking the time to explore my Weather + Movie Search App.  
+🚀 Your support and feedback are always appreciated.
+
+⭐ If you like this project, don't forget to give it a star!
+
+Happy Coding 💻🔥
+
+</div>
